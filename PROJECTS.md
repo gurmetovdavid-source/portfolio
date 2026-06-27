@@ -12,7 +12,7 @@ A full SaaS platform for healthcare clinics.
 - **Stack:** Next.js 14, React 18, TypeScript, PostgreSQL, Drizzle ORM, Docker, Nginx.
 - **Highlights:** custom JWT auth, role-based access control, multi-clinic support, Docker deployment on VPS.
 - **Status:** In production.
-- **Repo:** [dentalcloud-app](https://github.com/gurmetovdavid-source/dentalcloud-app)
+- **Repo:** [dentalcloud-saas](https://github.com/gurmetovdavid-source/dentalcloud-saas)
 
 ---
 

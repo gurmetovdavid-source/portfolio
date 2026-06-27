@@ -6,7 +6,7 @@ Goal: make GitHub profile look active and relevant for international clients.
 
 | # | Project | What to do before publishing | Status |
 |---|---|---|---|
-| 1 | `dentalcloud-app` | Translate README to English, remove secrets/.env, remove Russian-specific data (addresses, phones, emails, ₽), make repo public | Not started |
+| 1 | `dentalcloud-app` → `dentalcloud-saas` | Translated README, removed secrets/Russian-specific data, created new public repo | ✅ Published |
 | 2 | `landing-hub` | Translate README, check for secrets, make repo public | Not started |
 
 ## Priority 2 — Demo landings (fast win)
