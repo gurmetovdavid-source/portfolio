@@ -1,4 +1,4 @@
-: # Projects
+# Projects
 
 A selection of projects I have built for clinics, healthcare teams, and service businesses. Most are production-ready and deployed.
 
@@ -25,6 +25,7 @@ A modern analytics dashboard for healthcare clinics.
 - **Highlights:** responsive KPI cards, interactive charts, dark-mode-ready color system.
 - **Status:** Published.
 - **Repo:** [clinic-analytics-dashboard](https://github.com/gurmetovdavid-source/clinic-analytics-dashboard)
+- **Live demo:** [clinic-analytics-dashboard.vercel.app](https://clinic-analytics-dashboard.vercel.app)
 
 ---
 
@@ -49,6 +50,33 @@ A lightweight inventory app for medical supplies.
 - **Highlights:** client-side persistence, responsive table, demo data reset.
 - **Status:** Published.
 - **Repo:** [clinic-inventory-tracker](https://github.com/gurmetovdavid-source/clinic-inventory-tracker)
+- **Live demo:** [clinic-inventory-tracker.vercel.app](https://clinic-inventory-tracker.vercel.app)
+
+---
+
+## TaskFlow Dashboard
+
+A Kanban-style task and project management dashboard for teams.
+
+- **What it does:** organize tasks into columns, track status, priority, and assignee, see team productivity stats.
+- **Stack:** Next.js 14, TypeScript, Tailwind CSS, localStorage, Lucide React.
+- **Highlights:** drag-and-drop board feel, responsive layout, demo data in browser storage.
+- **Status:** Published.
+- **Repo:** [taskflow-dashboard](https://github.com/gurmetovdavid-source/taskflow-dashboard)
+- **Live demo:** [taskflow-dashboard.vercel.app](https://taskflow-dashboard.vercel.app)
+
+---
+
+## Expense Tracker SaaS
+
+A simple expense tracker for individuals and small teams.
+
+- **What it does:** add expenses by category, set monthly budgets, see spending analytics and trends.
+- **Stack:** Next.js 14, TypeScript, Tailwind CSS, Recharts, localStorage, Lucide React.
+- **Highlights:** budget progress, category and time charts, responsive UI.
+- **Status:** Published.
+- **Repo:** [expense-tracker-saas](https://github.com/gurmetovdavid-source/expense-tracker-saas)
+- **Live demo:** [expense-tracker-saas.vercel.app](https://expense-tracker-saas.vercel.app)
 
 ---
 
