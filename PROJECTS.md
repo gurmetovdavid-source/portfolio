@@ -1,6 +1,6 @@
-# Projects
+: # Projects
 
-A selection of projects I have built for clinics, agencies, and service businesses. Most are production-ready and deployed.
+A selection of projects I have built for clinics, healthcare teams, and service businesses. Most are production-ready and deployed.
 
 ---
 
@@ -16,15 +16,39 @@ A full SaaS platform for healthcare clinics.
 
 ---
 
-## Landing Hub
+## Clinic Analytics Dashboard
 
-A monorepo system for managing multiple landing pages with a shared admin panel and SEO utilities.
+A modern analytics dashboard for healthcare clinics.
 
-- **What it does:** create and deploy landing pages from templates, manage content, generate sitemap.xml, robots.txt, and JSON-LD schema.
-- **Stack:** Next.js 14, TypeScript, Tailwind CSS, Turborepo, Docker, Nginx.
-- **Highlights:** reusable components, SEO automation, scalable monorepo architecture.
-- **Status:** Active.
-- **Repo:** [landing-hub](https://github.com/gurmetovdavid-source/landing-hub)
+- **What it does:** visualizes appointments, revenue by service, doctor workload, and patient satisfaction.
+- **Stack:** Next.js 14, TypeScript, Tailwind CSS, Recharts, Lucide React.
+- **Highlights:** responsive KPI cards, interactive charts, dark-mode-ready color system.
+- **Status:** Published.
+- **Repo:** [clinic-analytics-dashboard](https://github.com/gurmetovdavid-source/clinic-analytics-dashboard)
+
+---
+
+## AI Clinic Receptionist
+
+A Telegram bot that books appointments through natural language.
+
+- **What it does:** patients describe what they need, the bot extracts name, service, and time with an LLM, then saves the request and notifies the clinic manager.
+- **Stack:** Python, aiogram 3.x, SQLite, OpenRouter LLM API.
+- **Highlights:** LLM-powered intent extraction, async handlers, manager notifications.
+- **Status:** Published.
+- **Repo:** [ai-clinic-receptionist](https://github.com/gurmetovdavid-source/ai-clinic-receptionist)
+
+---
+
+## Clinic Inventory Tracker
+
+A lightweight inventory app for medical supplies.
+
+- **What it does:** tracks stock levels, shows low-stock alerts, manages suppliers.
+- **Stack:** Next.js 14, TypeScript, Tailwind CSS, localStorage.
+- **Highlights:** client-side persistence, responsive table, demo data reset.
+- **Status:** Published.
+- **Repo:** [clinic-inventory-tracker](https://github.com/gurmetovdavid-source/clinic-inventory-tracker)
 
 ---
 
@@ -52,51 +76,14 @@ A Telegram bot for managing shift schedules and collecting photo reports from as
 
 ---
 
-## Demo Landings
+## More bots
 
-Static HTML/CSS/JS landing pages built to showcase frontend and animation skills.
+Other Telegram automation projects I have built for clinics and teams:
 
-- **What it does:** responsive landings with parallax, scroll-triggered animations, and premium visual effects.
-- **Stack:** HTML, CSS, JavaScript, GSAP.
-- **Highlights:** GSAP animations, parallax scrolling, mobile-first responsive design.
-- **Status:** Demo-ready.
-- **Repos:** [demo-landing](https://github.com/gurmetovdavid-source/demo-landing) · [demo-parallax](https://github.com/gurmetovdavid-source/demo-parallax) · [demo-premium](https://github.com/gurmetovdavid-source/demo-premium)
+- **Recipe Bot** — generates filled medical prescription forms in PDF from patient data.
+- **Patient Bot** — appointment booking and FAQ bot for patients.
 
----
-
-## SEO Sites Network
-
-A network of SEO-optimized landing pages with a management panel.
-
-- **What it does:** generate and manage location/service pages, track SEO metadata, deploy static exports.
-- **Stack:** Next.js, TypeScript, Tailwind CSS.
-- **Highlights:** bulk page generation, structured data, fast static export.
-- **Status:** Active.
-- **Repo:** [seo-sites](https://github.com/gurmetovdavid-source/seo-sites)
-
----
-
-## MCP Servers
-
-Model Context Protocol servers for extending AI agents.
-
-- **What it does:** connects AI agents to Postgres, Puppeteer browser automation, and SSH execution.
-- **Stack:** Node.js, TypeScript, MCP SDK.
-- **Highlights:** secure tool calling, database queries, browser automation, remote command execution.
-- **Status:** Experimental.
-- **Repo:** [mcp-servers](https://github.com/gurmetovdavid-source/mcp-servers)
-
----
-
-## Procurement MVP
-
-A lightweight procurement and supplier management system.
-
-- **What it does:** manage suppliers, tenders, quotes, and procurement workflows.
-- **Stack:** Python, Flask, SQLite, HTML/CSS.
-- **Highlights:** simple CRUD, supplier catalog, tender tracking.
-- **Status:** MVP completed.
-- **Repo:** [proga-a](https://github.com/gurmetovdavid-source/proga-a)
+These are kept private until cleaned and translated.
 
 ---
 

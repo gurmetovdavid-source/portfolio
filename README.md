@@ -43,7 +43,9 @@ I build **SaaS platforms, dashboards, and automation tools** for service busines
 | Project | Description | Stack | Status |
 |---|---|---|---|
 | [DentalCloud](./PROJECTS.md#dentalcloud) | Healthcare SaaS for clinics: scheduling, CRM, patient portal, chat, photo management | Next.js, PostgreSQL, Drizzle, Docker | In production |
-| [Landing Hub](./PROJECTS.md#landing-hub) | Monorepo for landing pages with admin panel and SEO utilities | Next.js, Turborepo, Docker | Active |
+| [Clinic Analytics Dashboard](./PROJECTS.md#clinic-analytics-dashboard) | Analytics dashboard for clinics: appointments, revenue, doctor workload, satisfaction | Next.js, Recharts, Tailwind | Published |
+| [AI Clinic Receptionist](./PROJECTS.md#ai-clinic-receptionist) | Telegram bot for appointment booking with LLM-powered natural language | Python, aiogram, OpenRouter | Published |
+| [Clinic Inventory Tracker](./PROJECTS.md#clinic-inventory-tracker) | Inventory management app for medical supplies with low-stock alerts | Next.js, Tailwind, localStorage | Published |
 | [Voice AI Assistant](./PROJECTS.md#voice-ai-assistant) | Voicebot for phone calls: ASR, TTS, LLM, CRM integration | FastAPI, Asterisk, Python | Prototype |
 | [Shift Report Bot](./PROJECTS.md#shift-report-bot) | Telegram bot for shift scheduling and photo reports | Python, aiogram, Docker | In production |
 
