@@ -11,6 +11,9 @@ Goal: make GitHub profile look active and relevant for international clients.
 | 3 | `clinic-analytics-dashboard` | ✅ Public |
 | 4 | `ai-clinic-receptionist` | ✅ Public |
 | 5 | `clinic-inventory-tracker` | ✅ Public |
+| 6 | `taskflow-dashboard` | ✅ Public |
+| 7 | `expense-tracker-saas` | ✅ Public |
+| 8 | `leadtrack-saas` | ✅ Public |
 
 ## Priority — existing projects to clean and publish
 

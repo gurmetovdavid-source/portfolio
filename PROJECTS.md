@@ -80,6 +80,19 @@ A simple expense tracker for individuals and small teams.
 
 ---
 
+## LeadTrack SaaS
+
+A multi-partner lead tracking platform built from a real Upwork brief. It covers partner onboarding, offer management, lead attribution, conversion tracking, settlements, and a partner portal.
+
+- **What it does:** manage partners and offers, track leads by source and status, record events, calculate commissions, generate settlement reports, and give partners a self-service portal.
+- **Stack:** Next.js 14, TypeScript, Tailwind CSS, Recharts, Lucide React, localStorage.
+- **Highlights:** admin + partner views, role-aware navigation, interactive charts, status-driven badges, widget demo for embedded lead forms.
+- **Status:** Published.
+- **Repo:** [leadtrack-saas](https://github.com/gurmetovdavid-source/leadtrack-saas)
+- **Live demo:** [leadtrack-saas.vercel.app](https://leadtrack-saas.vercel.app)
+
+---
+
 ## Voice AI Assistant
 
 A voicebot that makes outbound phone calls, listens, speaks, and saves results to a CRM.
