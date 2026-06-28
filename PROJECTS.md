@@ -13,6 +13,7 @@ A full SaaS platform for healthcare clinics.
 - **Highlights:** custom JWT auth, role-based access control, multi-clinic support, Docker deployment on VPS.
 - **Status:** In production.
 - **Repo:** [dentalcloud-saas](https://github.com/gurmetovdavid-source/dentalcloud-saas)
+- **Live demo:** [dentalcloud-app.vercel.app](https://dentalcloud-app.vercel.app) — click "Try demo doctor" or "Try demo patient" to explore without registration.
 
 ---
 
