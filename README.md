@@ -43,14 +43,9 @@ I build **SaaS platforms, dashboards, and automation tools** for service busines
 | Project | Description | Stack | Status |
 |---|---|---|---|
 | [DentalCloud](./PROJECTS.md#dentalcloud) | Healthcare SaaS for clinics: scheduling, CRM, patient portal, chat, photo management | Next.js, PostgreSQL, Drizzle, Docker | In production |
-| [Clinic Analytics Dashboard](./PROJECTS.md#clinic-analytics-dashboard) | Analytics dashboard for clinics: appointments, revenue, doctor workload, satisfaction | Next.js, Recharts, Tailwind | Published |
-| [AI Clinic Receptionist](./PROJECTS.md#ai-clinic-receptionist) | Telegram bot for appointment booking with LLM-powered natural language | Python, aiogram, OpenRouter | Published |
-| [Clinic Inventory Tracker](./PROJECTS.md#clinic-inventory-tracker) | Inventory management app for medical supplies with low-stock alerts | Next.js, Tailwind, localStorage | Published |
-| [TaskFlow Dashboard](./PROJECTS.md#taskflow-dashboard) | Kanban-style task and project management dashboard for teams | Next.js, Tailwind, localStorage | Published |
-| [Expense Tracker SaaS](./PROJECTS.md#expense-tracker-saas) | Personal and team expense tracker with budgets and analytics | Next.js, Recharts, Tailwind | Published |
 | [LeadTrack SaaS](./PROJECTS.md#leadtrack-saas) | Multi-partner lead tracking platform with attribution and settlements | Next.js, Recharts, Tailwind | Published |
-| [Voice AI Assistant](./PROJECTS.md#voice-ai-assistant) | Voicebot for phone calls: ASR, TTS, LLM, CRM integration | FastAPI, Asterisk, Python | Prototype |
-| [Shift Report Bot](./PROJECTS.md#shift-report-bot) | Telegram bot for shift scheduling and photo reports | Python, aiogram, Docker | In production |
+| [TaskFlow Dashboard](./PROJECTS.md#taskflow-dashboard) | Kanban-style task and project management dashboard for teams | Next.js, Tailwind, localStorage | Published |
+| [Telegram bots](./PROJECTS.md#telegram-bots) | Shift reports, recipe PDFs, patient booking and FAQ automation | Python, aiogram, Docker | In production / dev |
 
 See all projects and details in [PROJECTS.md](./PROJECTS.md).
 
