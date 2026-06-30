@@ -65,7 +65,7 @@ A high-converting landing page for a $697 digital service.
 - **Highlights:** mobile-first layout, accessible accordion, form validation.
 - **Status:** Published.
 - **Live demo:** [freelance-demos-3huh.vercel.app](https://freelance-demos-3huh.vercel.app/)
-- **Code:** [github.com/gurmetovdavid-source/freelance-demos](https://github.com/gurmetovdavid-source/freelance-demos)
+- **Code:** [github.com/gurmetovdavid-source/digital-service-landing](https://github.com/gurmetovdavid-source/digital-service-landing)
 
 ---
 
