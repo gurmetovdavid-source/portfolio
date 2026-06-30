@@ -51,7 +51,8 @@ A clean, responsive landing page for a dental clinic.
 - **Stack:** HTML, CSS, JavaScript.
 - **Highlights:** accessibility attributes, SVG icons, reduced-motion support.
 - **Status:** Published.
-- **Live demo:** [portfolio/dental-clinic-site](./dental-clinic-site/index.html)
+- **Live demo:** [dental-clinic-site-7ar5.vercel.app](https://dental-clinic-site-7ar5.vercel.app/)
+- **Code:** [github.com/gurmetovdavid-source/dental-clinic-site](https://github.com/gurmetovdavid-source/dental-clinic-site)
 
 ---
 
@@ -63,7 +64,8 @@ A high-converting landing page for a $697 digital service.
 - **Stack:** HTML, CSS, JavaScript.
 - **Highlights:** mobile-first layout, accessible accordion, form validation.
 - **Status:** Published.
-- **Live demo:** [portfolio/digital-service-landing](./digital-service-landing/index.html)
+- **Live demo:** [freelance-demos-3huh.vercel.app](https://freelance-demos-3huh.vercel.app/)
+- **Code:** [github.com/gurmetovdavid-source/freelance-demos](https://github.com/gurmetovdavid-source/freelance-demos)
 
 ---
 

@@ -47,6 +47,10 @@ I build **SaaS platforms, dashboards, and automation tools** for service busines
 | [TaskFlow Dashboard](./PROJECTS.md#taskflow-dashboard) | Kanban-style task and project management dashboard for teams | Next.js, Tailwind, localStorage | Published |
 | [Dental Clinic Landing](./PROJECTS.md#dental-clinic-landing) | Responsive landing page for a dental clinic with appointment form | HTML, CSS, JS | Published |
 | [Digital Service Landing](./PROJECTS.md#digital-service-landing) | High-converting landing page for a $697 digital service | HTML, CSS, JS | Published |
+
+Live demos:
+- Dental Clinic: https://dental-clinic-site-7ar5.vercel.app/
+- Digital Service: https://freelance-demos-3huh.vercel.app/
 | [Telegram Escrow Bot](./PROJECTS.md#telegram-escrow-bot-demo) | Secure escrow bot for Telegram transactions | Python, aiogram | Demo |
 | [Telegram bots](./PROJECTS.md#telegram-bots) | Shift reports, recipe PDFs, patient booking and FAQ automation | Python, aiogram, Docker | In production / dev |
 
