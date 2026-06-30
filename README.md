@@ -45,7 +45,9 @@ I build **SaaS platforms, dashboards, and automation tools** for service busines
 | [DentalCloud](./PROJECTS.md#dentalcloud) | Healthcare SaaS for clinics: scheduling, CRM, patient portal, chat, photo management | Next.js, PostgreSQL, Drizzle, Docker | In production |
 | [LeadTrack SaaS](./PROJECTS.md#leadtrack-saas) | Multi-partner lead tracking platform with attribution and settlements | Next.js, Recharts, Tailwind | Published |
 | [TaskFlow Dashboard](./PROJECTS.md#taskflow-dashboard) | Kanban-style task and project management dashboard for teams | Next.js, Tailwind, localStorage | Published |
-| [Freelance demos](./PROJECTS.md#freelance-demo-projects) | Landing pages and a Telegram bot built from real freelance briefs | HTML, CSS, JS, Python | Published |
+| [Dental Clinic Landing](./PROJECTS.md#dental-clinic-landing) | Responsive landing page for a dental clinic with appointment form | HTML, CSS, JS | Published |
+| [Digital Service Landing](./PROJECTS.md#digital-service-landing) | High-converting landing page for a $697 digital service | HTML, CSS, JS | Published |
+| [Telegram Escrow Bot](./PROJECTS.md#telegram-escrow-bot-demo) | Secure escrow bot for Telegram transactions | Python, aiogram | Demo |
 | [Telegram bots](./PROJECTS.md#telegram-bots) | Shift reports, recipe PDFs, patient booking and FAQ automation | Python, aiogram, Docker | In production / dev |
 
 See all projects and details in [PROJECTS.md](./PROJECTS.md).

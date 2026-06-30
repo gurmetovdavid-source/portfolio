@@ -43,11 +43,7 @@ A Kanban-style task and project management dashboard for teams.
 
 ---
 
-## Freelance demo projects
-
-Small but production-quality projects built from real Upwork-style briefs. All demos are fully functional and can be reused as templates.
-
-### Dental Clinic Landing
+## Dental Clinic Landing
 
 A clean, responsive landing page for a dental clinic.
 
@@ -57,7 +53,9 @@ A clean, responsive landing page for a dental clinic.
 - **Status:** Published.
 - **Live demo:** [portfolio/dental-clinic-site](./dental-clinic-site/index.html)
 
-### Digital Service Landing
+---
+
+## Digital Service Landing
 
 A high-converting landing page for a $697 digital service.
 
@@ -67,7 +65,9 @@ A high-converting landing page for a $697 digital service.
 - **Status:** Published.
 - **Live demo:** [portfolio/digital-service-landing](./digital-service-landing/index.html)
 
-### Telegram Escrow Bot
+---
+
+## Telegram Escrow Bot (demo)
 
 A Telegram bot that acts as an escrow service for secure transactions.
 
