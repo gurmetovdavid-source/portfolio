@@ -29,3 +29,5 @@ python -m http.server 8002
 ## Деплой
 
 Сайт можно развернуть на GitHub Pages, Netlify, Cloudflare Pages или любом статическом хостинге.
+
+# trigger
