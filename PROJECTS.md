@@ -43,6 +43,40 @@ A Kanban-style task and project management dashboard for teams.
 
 ---
 
+## Freelance demo projects
+
+Small but production-quality projects built from real Upwork-style briefs. All demos are fully functional and can be reused as templates.
+
+### Dental Clinic Landing
+
+A clean, responsive landing page for a dental clinic.
+
+- **What it does:** services, doctors, prices, reviews, appointment form with modal confirmation, mobile menu, scroll animations.
+- **Stack:** HTML, CSS, JavaScript.
+- **Highlights:** accessibility attributes, SVG icons, reduced-motion support.
+- **Status:** Published.
+- **Live demo:** [portfolio/dental-clinic-site](./dental-clinic-site/index.html)
+
+### Digital Service Landing
+
+A high-converting landing page for a $697 digital service.
+
+- **What it does:** hero, features, social proof, pricing, checkout form with card formatting, FAQ accordion.
+- **Stack:** HTML, CSS, JavaScript.
+- **Highlights:** mobile-first layout, accessible accordion, form validation.
+- **Status:** Published.
+- **Live demo:** [portfolio/digital-service-landing](./digital-service-landing/index.html)
+
+### Telegram Escrow Bot
+
+A Telegram bot that acts as an escrow service for secure transactions.
+
+- **What it does:** create deals, buyer confirmation, fund release, cancellation, dispute handling with admin notification.
+- **Stack:** Python, aiogram 3.x, python-dotenv.
+- **Highlights:** persistent JSON storage, role-based actions.
+- **Status:** Demo.
+- **Code:** [portfolio/telegram-escrow-bot](./telegram-escrow-bot)
+
 ## Telegram bots
 
 Automation projects I have built for clinics and teams:

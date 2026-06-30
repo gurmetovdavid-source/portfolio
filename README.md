@@ -45,9 +45,12 @@ I build **SaaS platforms, dashboards, and automation tools** for service busines
 | [DentalCloud](./PROJECTS.md#dentalcloud) | Healthcare SaaS for clinics: scheduling, CRM, patient portal, chat, photo management | Next.js, PostgreSQL, Drizzle, Docker | In production |
 | [LeadTrack SaaS](./PROJECTS.md#leadtrack-saas) | Multi-partner lead tracking platform with attribution and settlements | Next.js, Recharts, Tailwind | Published |
 | [TaskFlow Dashboard](./PROJECTS.md#taskflow-dashboard) | Kanban-style task and project management dashboard for teams | Next.js, Tailwind, localStorage | Published |
+| [Freelance demos](./PROJECTS.md#freelance-demo-projects) | Landing pages and a Telegram bot built from real freelance briefs | HTML, CSS, JS, Python | Published |
 | [Telegram bots](./PROJECTS.md#telegram-bots) | Shift reports, recipe PDFs, patient booking and FAQ automation | Python, aiogram, Docker | In production / dev |
 
 See all projects and details in [PROJECTS.md](./PROJECTS.md).
+
+**Live portfolio:** https://portfolio-gurmetovdavid-source.vercel.app
 
 ---
 

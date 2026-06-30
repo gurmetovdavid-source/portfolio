@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DentalPro — Modern Dental Clinic in New York</title>
+  <meta name="description" content="Modern dental care with experienced doctors, painless treatment, and online appointment booking.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body class="dental-page">
+  <svg xmlns="http://www.w3.org/2000/svg" style="display:none;">
+    <symbol id="icon-tooth" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2C8.5 2 7 4.5 7 7c0 1.5-.5 3-1 4s-2 2.5-2 5c0 2.5 1.5 4 3.5 4 1.5 0 2.5-1 3.5-1s2 1 3.5 1c2 0 3.5-1.5 3.5-4 0-2.5-1.5-3.5-2-5s-1-2.5-1-4c0-2.5-1.5-5-5-5z"/></symbol>
+    <symbol id="icon-sparkle" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2l1.5 4.5L18 8l-4.5 1.5L12 14l-1.5-4.5L6 8l4.5-1.5z"/><path d="M19 13l1 2.5 2.5 1-2.5 1-1 2.5-1-2.5-2.5-1 2.5-1z"/><path d="M5 15l.75 1.75L7.5 17.5l-1.75.75L5 20l-.75-1.75L2.5 17.5l1.75-.75z"/></symbol>
+    <symbol id="icon-brush" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M3 21c3 0 5-2 5-5h8c0 3 2 5 5 5"/><path d="M8 16h8l2-10H6z"/><path d="M7 6h10"/></symbol>
+    <symbol id="icon-implant" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2v20"/><path d="M9 5h6"/><path d="M8 10h8"/><path d="M9 15h6"/><path d="M10 20h4"/></symbol>
+    <symbol id="icon-child" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="7" r="4"/><path d="M6 21v-2a4 4 0 0 1 4-4h4a4 4 0 0 1 4 4v2"/><path d="M10 11l-1 2"/><path d="M14 11l1 2"/></symbol>
+    <symbol id="icon-doctor" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="7" r="4"/><path d="M5 21v-2a4 4 0 0 1 4-4h6a4 4 0 0 1 4 4v2"/><path d="M12 3v2"/></symbol>
+  </svg>
+  <header class="ds-header dental-header">
+    <div class="ds-container dental-header-inner">
+      <a href="#" class="dental-logo">
+        <span class="dental-logo-icon">DP</span>
+        <span class="logo-text">DentalPro</span>
+      </a>
+      <nav class="dental-nav">
+        <a href="#services">Services</a>
+        <a href="#doctors">Doctors</a>
+        <a href="#prices">Prices</a>
+        <a href="#reviews">Reviews</a>
+        <a href="#contacts">Contacts</a>
+      </nav>
+      <a href="#appointment" class="ds-btn dental-btn-primary">Book online</a>
+    </div>
+  </header>
+
+  <section class="hero">
+    <div class="ds-container hero-grid">
+      <div class="hero-content reveal">
+        <span class="hero-badge">Free consultation</span>
+        <h1>Taking care of your smile since 2010</h1>
+        <p class="hero-text">Modern equipment, experienced doctors, and painless treatment. Book an appointment online and get 20% off your first diagnosis.</p>
+        <div class="hero-actions">
+          <a href="#appointment" class="ds-btn dental-btn-primary ds-btn-lg">Book now</a>
+          <a href="#services" class="ds-btn dental-btn-secondary ds-btn-lg">Services</a>
+        </div>
+        <div class="hero-stats">
+          <div><strong>15+</strong><span>years of experience</span></div>
+          <div><strong>12,000+</strong><span>happy patients</span></div>
+          <div><strong>4.9</strong><span>Google rating</span></div>
+        </div>
+      </div>
+      <div class="hero-visual reveal">
+        <div class="hero-card">
+          <div class="hero-card-icon"><svg aria-hidden="true"><use href="#icon-tooth"></use></svg></div>
+          <h3>All-on-4 implants</h3>
+          <p>from $2,990</p>
+        </div>
+        <div class="hero-card hero-card-secondary">
+          <div class="hero-card-icon"><svg aria-hidden="true"><use href="#icon-sparkle"></use></svg></div>
+          <h3>Teeth whitening</h3>
+          <p>from $490</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="services" id="services">
+    <div class="ds-container">
+      <div class="section-header reveal">
+        <h2>Our services</h2>
+        <p>Full range of dental services for adults and children</p>
+      </div>
+      <div class="services-grid stagger-children">
+        <article class="service-card">
+          <div class="service-icon"><svg aria-hidden="true"><use href="#icon-tooth"></use></svg></div>
+          <h3>Therapy</h3>
+          <p>Treatment of cavities, pulpitis, and periodontitis with modern filling materials.</p>
+          <a href="#appointment">Book now</a>
+        </article>
+        <article class="service-card">
+          <div class="service-icon"><svg aria-hidden="true"><use href="#icon-brush"></use></svg></div>
+          <h3>Prophylaxis</h3>
+          <p>AirFlow cleaning, ultrasonic scaling, polishing, and home care recommendations.</p>
+          <a href="#appointment">Book now</a>
+        </article>
+        <article class="service-card">
+          <div class="service-icon"><svg aria-hidden="true"><use href="#icon-sparkle"></use></svg></div>
+          <h3>Aesthetics</h3>
+          <p>Whitening, veneers, and tooth restoration — your dream smile in 1–3 visits.</p>
+          <a href="#appointment">Book now</a>
+        </article>
+        <article class="service-card">
+          <div class="service-icon"><svg aria-hidden="true"><use href="#icon-implant"></use></svg></div>
+          <h3>Implantology</h3>
+          <p>Implants with a lifetime warranty and surgery of any complexity.</p>
+          <a href="#appointment">Book now</a>
+        </article>
+        <article class="service-card">
+          <div class="service-icon"><svg aria-hidden="true"><use href="#icon-tooth"></use></svg></div>
+          <h3>Orthodontics</h3>
+          <p>Braces and aligners for adults and teenagers.</p>
+          <a href="#appointment">Book now</a>
+        </article>
+        <article class="service-card">
+          <div class="service-icon"><svg aria-hidden="true"><use href="#icon-child"></use></svg></div>
+          <h3>Pediatric dentistry</h3>
+          <p>Gentle approach and pain-free treatment for little patients.</p>
+          <a href="#appointment">Book now</a>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <section class="doctors" id="doctors">
+    <div class="ds-container">
+      <div class="section-header reveal">
+        <h2>Our doctors</h2>
+        <p>A team with top medical education and years of experience</p>
+      </div>
+      <div class="doctors-grid stagger-children">
+        <article class="doctor-card">
+          <div class="doctor-photo" style="background:#D1E7DD"><svg aria-hidden="true"><use href="#icon-doctor"></use></svg></div>
+          <h3>Dr. Yusif Gurmetov</h3>
+          <p class="doctor-role">Chief doctor, implantologist</p>
+          <p class="doctor-exp">18 years of experience</p>
+        </article>
+        <article class="doctor-card">
+          <div class="doctor-photo" style="background:#E2E3F3"><svg aria-hidden="true"><use href="#icon-doctor"></use></svg></div>
+          <h3>Dr. Anna Petrova</h3>
+          <p class="doctor-role">Orthodontist</p>
+          <p class="doctor-exp">12 years of experience</p>
+        </article>
+        <article class="doctor-card">
+          <div class="doctor-photo" style="background:#FCE7CF"><svg aria-hidden="true"><use href="#icon-doctor"></use></svg></div>
+          <h3>Dr. Elena Smirnova</h3>
+          <p class="doctor-role">Dental therapist</p>
+          <p class="doctor-exp">9 years of experience</p>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <section class="appointment" id="appointment">
+    <div class="ds-container">
+      <div class="appointment-grid">
+        <div class="appointment-info reveal">
+          <h2>Book an appointment</h2>
+          <p>Leave a request and our administrator will contact you within 15 minutes to confirm the time.</p>
+          <ul class="appointment-list">
+            <li>Free initial consultation</li>
+            <li>20% off diagnosis</li>
+            <li>0% installment plan for treatment</li>
+          </ul>
+        </div>
+        <form class="appointment-form reveal" id="appointmentForm" style="transition-delay: 120ms;">
+          <div class="ds-field">
+            <label for="name">Your name</label>
+            <input class="ds-input" id="name" type="text" name="name" placeholder="John Smith" required>
+          </div>
+          <div class="ds-field">
+            <label for="phone">Phone</label>
+            <input class="ds-input" id="phone" type="tel" name="phone" placeholder="+1 (555) 000-00-00" pattern="[\\+]?[0-9\\s\\-\\(\\)]{10,20}" required>
+            <span class="field-hint">The administrator will call to confirm</span>
+          </div>
+          <div class="ds-field">
+            <label for="service">Service</label>
+            <select class="ds-select" id="service" name="service" required>
+              <option value="">Choose a service</option>
+              <option>Consultation</option>
+              <option>Prophylaxis</option>
+              <option>Cavity treatment</option>
+              <option>Implantation</option>
+              <option>Whitening</option>
+              <option>Orthodontics</option>
+            </select>
+          </div>
+          <div class="ds-field">
+            <label for="date">Preferred date</label>
+            <input class="ds-input" id="date" type="date" name="date" required>
+            <span class="field-hint">Choose a day, we will confirm the time by phone</span>
+          </div>
+          <button type="submit" class="ds-btn dental-btn-primary ds-btn-lg ds-btn-full">Book now</button>
+          <p class="form-note">By clicking the button, you agree to the personal data processing policy.</p>
+        </form>
+      </div>
+    </div>
+  </section>
+
+  <section class="reviews" id="reviews">
+    <div class="ds-container">
+      <div class="section-header reveal">
+        <h2>Patient reviews</h2>
+        <p>What real patients say about us</p>
+      </div>
+      <div class="reviews-grid stagger-children">
+        <article class="review-card">
+          <div class="review-stars">★★★★★</div>
+          <p>“Got an implant — everything was painless and stress-free. The doctor explained every step, the clinic is clean and modern.”</p>
+          <strong>Marina K.</strong>
+        </article>
+        <article class="review-card">
+          <div class="review-stars">★★★★★</div>
+          <p>“Did teeth whitening and the result exceeded my expectations. Booking online was super convenient.”</p>
+          <strong>Alex P.</strong>
+        </article>
+        <article class="review-card">
+          <div class="review-stars">★★★★★</div>
+          <p>“Brought my child for treatment. The doctor found the right approach, now my son is not afraid of dentists.”</p>
+          <strong>Olga S.</strong>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <footer class="footer" id="contacts">
+    <div class="ds-container footer-grid">
+      <div>
+        <a href="#" class="dental-logo">
+          <span class="dental-logo-icon">DP</span>
+          <span class="logo-text">DentalPro</span>
+        </a>
+        <p class="footer-address">New York, 24 Sample Street<br>Daily 9:00 AM – 9:00 PM</p>
+      </div>
+      <div>
+        <h4>Phone</h4>
+        <p><a href="tel:+15551234567">+1 (555) 123-45-67</a></p>
+      </div>
+      <div>
+        <h4>Email</h4>
+        <p><a href="mailto:info@dentalpro.com">info@dentalpro.com</a></p>
+      </div>
+    </div>
+    <div class="ds-container footer-copy">
+      <p>© 2026 DentalPro. Demo site for portfolio.</p>
+    </div>
+  </footer>
+
+  <div class="modal" id="successModal">
+    <div class="modal-content">
+      <h3>Request sent!</h3>
+      <p>Our administrator will contact you shortly.</p>
+      <button class="ds-btn dental-btn-primary" id="closeModal">Great</button>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
