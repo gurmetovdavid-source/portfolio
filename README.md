@@ -50,7 +50,7 @@ I build **SaaS platforms, dashboards, and automation tools** for service busines
 
 See all projects and details in [PROJECTS.md](./PROJECTS.md).
 
-**Live portfolio:** https://portfolio-gurmetovdavid-source.vercel.app
+**Live portfolio:** https://portfolio-r0v31xqgr-gurmetovdavid-9495s-projects.vercel.app/
 
 ---
 
